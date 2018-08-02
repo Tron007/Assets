@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DinamicText : MonoBehaviour {
 
+    string title = "Welcome to this game";
+
 	// Use this for initialization
 	void Start () {
 		
